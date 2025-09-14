@@ -115,7 +115,6 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
-    // 添加
     1080zyku: {
         api: 'https://api.1080zyku.com/inc/apijson.php',
         name: '1080资源库',
